@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Books</string>
+
+    <!--Home-->
+    <string name="Home_no_books">No books</string>
+    <string name="Home_please_add_one">Please add one</string>
+    <string name="Home_rate_value">%s / 5</string>
+
+    <!--Add-->
+    <string name="Add_header">Add book</string>
+    <string name="Add_title">Title</string>
+    <string name="Add_author">Author</string>
+    <string name="Add_isbn">ISBN</string>
+    <string name="Add_isbn_error">ISBN is not valid</string>
+    <string name="Add_number_of_pages">Number of pages</string>
+    <string name="Add_add">Add</string>
+
+    <!--Edit-->
+    <string name="Edit_header">Edit book</string>
+    <string name="Edit_title">Title</string>
+    <string name="Edit_author">Author</string>
+    <string name="Edit_isbn">ISBN</string>
+    <string name="Edit_isbn_error">ISBN is not valid</string>
+    <string name="Edit_number_of_pages">Number of pages</string>
+    <string name="Edit_edit">Edit</string>
+
+    <!--Details-->
+    <string name="Details_author">Author:</string>
+    <string name="Details_number_of_pages">Number of pages:</string>
+    <string name="Details_isbn">ISBN:</string>
+    <string name="Details_rate">Rate:</string>
+    <string name="Details_rate_value">%s / 5</string>
+    <string name="Details_menu_edit">Edit</string>
+    <string name="Details_menu_delete">Delete</string>
+
+</resources>
